@@ -31,3 +31,7 @@ yarn start
 [<img src="https://img.youtube.com/vi/kk1gMD6qtts/maxresdefault.jpg" width="50%">](https://youtu.be/kk1gMD6qtts)
 
 
+## Rotas:
+<img src="/frontend/src/assets/swagger.png" >
+
+
