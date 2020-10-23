@@ -27,8 +27,7 @@ yarn start
 ```
 
 ## Preview da aplicação: 
-[![Video applicação](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=kk1gMD6qtts)
 
-<img src="/frontend/src/assets/pesquisa1.png" />
+[<img src="https://img.youtube.com/vi/kk1gMD6qtts/maxresdefault.jpg" width="50%">](https://youtu.be/kk1gMD6qtts)
 
 
