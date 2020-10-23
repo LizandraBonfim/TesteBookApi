@@ -29,4 +29,4 @@ yarn start
 ## Preview da aplicação: 
 [![Video applicação](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=kk1gMD6qtts)
 
-<img src="https://github.com/LizandraBonfim/TesteBookApi/upload/main/frontend/src/assets/pesquisa.png" />
+<img src="/upload/main/frontend/src/assets/pesquisa.png" />
